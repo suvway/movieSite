@@ -2,9 +2,9 @@
 /build
 
 dev.js
-
+/classPaper
 .eslintrc
-
+/thumbnail
 .DS_Store
 
 npm-debug.log*
